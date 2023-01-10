@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top:50px;
+}
+
+.counter-btn{
+  width:100px;
+  background-color: aquamarine;
+  margin-bottom: 10px;
+}
+
+.counter-result{
+  margin-top: 10px;
+  font-size: 20px;
+}
+
